@@ -334,9 +334,11 @@ header {
     
     .logo {
         font-size:32px;
+        cursor: pointer;
     }
     .nav-links > li {
         font-size:26px;
+        cursor: pointer;
     }
 
     .hero {
