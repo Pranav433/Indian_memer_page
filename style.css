@@ -1,8 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+@font-face {
+    font-family: 'Playfull';
+    src: url('./assets/fonts/Playfull.ttf');
+}
+
+
 :root {
     --thirty: #00C89B;
     --sixty:#2A292D;
     --ten:#C5C3C9;
-    --hero:Playfull;
+    --hero:'Playfull';
     --HM:'Happy Monkey';
 }
 
